@@ -1,4 +1,4 @@
-# Certificates in the folder 
+# Certificates in the folder
 
 * Sololearn Certificate for Basics of C Programming.
 * Cisco NDG to Understand Linux OS and Command Line Interface.
