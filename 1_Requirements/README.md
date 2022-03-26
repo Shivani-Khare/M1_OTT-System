@@ -8,3 +8,15 @@
 * User Name (Without space)
 * User Phone Number 
 * Suscription amount 
+
+## Tasks Performed 
+
+| SR No.       | Tasks to be performed        | Key to be entered       |
+|--------------|------------------------------|-------------------------|
+| 1            | Add new logs to directory    | Press 1                 |
+| 2            | Modify logs in directory     | Press 2                 |
+| 3            | View Log directory           | Press 3                 |
+| 4            | To make payment              | Press 4                 |
+| 5            | To search log directory      | Press 5                 |
+| 6            | To remove log from directory | Press 6                 |
+| 7            | To exit the system           | Press 7                 |
