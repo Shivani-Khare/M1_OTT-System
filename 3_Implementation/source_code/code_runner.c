@@ -2,13 +2,6 @@
 #include<conio.h>
 #include<windows.h>
 #include<stdlib.h>
-#include"addlogs.h"
-#include"logdirectory.h"
-#include"modifypayments.h"
-#include"removelogs.h"
-#include"searchlogs.h"
-#include"makepayment.h"
-#include"login.h"
 
 struct user
 {
