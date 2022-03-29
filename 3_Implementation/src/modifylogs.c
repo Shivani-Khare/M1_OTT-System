@@ -34,4 +34,5 @@ void modifylogs()
 	}
 	fclose(f);
 	system("cls");
+	
 }

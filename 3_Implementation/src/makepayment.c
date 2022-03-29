@@ -44,4 +44,5 @@ void makepayment()
 	getch();
 	fclose(f);
 	system("cls");
+	
 }

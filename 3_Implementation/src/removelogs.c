@@ -39,4 +39,5 @@ void removelogs()
 		fclose(f);
 	getch();
 	system("cls");
+	
 }

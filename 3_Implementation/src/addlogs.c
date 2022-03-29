@@ -37,4 +37,5 @@ void addlogs()
 	fclose(f);
 	system("cls");
 
+
 }
