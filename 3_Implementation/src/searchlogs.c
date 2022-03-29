@@ -32,4 +32,5 @@ void searchlogs()
 	getch();
 	fclose(f);
 	system("cls");
+	
 }
