@@ -48,7 +48,7 @@ int main()
 
 /* Write all the test functions */ 
 void test_addlogs(void) {
-    TEST_ASSERT_EQUAL("Success", addlogs(123456789, Shivani_Khare, 1000));
+    TEST_ASSERT_EQUAL("Congratulations! We have updated our log directory with your log!", addlogs(123456789, Shivani_Khare, 1000));
 }
 
 void test_modifylogs(void) {
