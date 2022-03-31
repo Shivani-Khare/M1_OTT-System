@@ -41,7 +41,7 @@ int main()
 	system ("color 0f");
 
 		system("color 0f");
-		printf("\n\n***************  WELCOME TO THE LOGIN PAGE  ***************");
+		printf("\n\n***************  WELCOME TO THE MENU PAGE  ***************");
 		
 		
 	while (1){
