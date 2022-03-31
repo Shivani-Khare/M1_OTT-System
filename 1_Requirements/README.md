@@ -1,15 +1,15 @@
-# Requirements
+# REQUIREMENTS
 
 * Enables the ott platform manager to add, modify, seaarch, remove and maintain a directory of subscribers (mentioned as users) on the OTT platform.
 * Enables the user to login to their account and keep a track and make payments for their respective subscription. 
 
-## User Requirements 
+## Low Level Requirements 
 
 * User Name (Without space)
 * User Phone Number 
 * Suscription amount 
 
-## Tasks Performed 
+## High Level Requirements 
 
 | SR No.       | Tasks to be performed        | Key to be entered       |
 |--------------|------------------------------|-------------------------|
