@@ -9,6 +9,6 @@
 | T_05 |To search log from directory | 5| `Record Found.`| `Record Found` | Pass|
 | |To search log from directory | 5|`Requested log not found in our database! We're sorry!`| `Requested log not found in our database! We're sorry!`| Fail|
 | T_06 | To make payment for subscription| 5 | `System Message: THANK YOU %s WE APPRECIATE YOUR TIMELY PAYMENTS` | `System Message: THANK YOU %s WE APPRECIATE YOUR TIMELY PAYMENTS` | Pass |
-| T_07 | To login to OTT_system | 6| `CONGRATULATIONS ON SUCCESSFUL LOGIN !` |  `CONGRATULATIONS ON SUCCESSFUL LOGIN !`| Pass |                            
+| T_07 | To login to OTT_system | 6| `CONGRATULATIONS ON SUCCESSFUL LOGIN ! Press esc Key to exit or Press any other key to add another log` |  `CONGRATULATIONS ON SUCCESSFUL LOGIN ! Press esc Key to exit or Press any other key to add another log`| Pass |                            
 | | To login to OTT_system | 6|`SORRY!!!!  IT SEEMS YOUR USERNAME OR PASSWORD IS INCORRECT!`| `SORRY!!!!  IT SEEMS YOUR USERNAME OR PASSWORD IS INCORRECT!`| Fail|
 
